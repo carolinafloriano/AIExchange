@@ -1,0 +1,1 @@
+// Guarda as preferências do usuário: tema, moeda padrão, etc.

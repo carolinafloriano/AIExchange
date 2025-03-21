@@ -1,0 +1,1 @@
+// Controla e armazena o histórico das conversões realizadas.

@@ -1,0 +1,1 @@
+// Composable genérico para chamadas HTTP com loading, erro e resposta.

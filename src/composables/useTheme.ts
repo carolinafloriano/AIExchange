@@ -1,0 +1,1 @@
+// Lida com alternância de tema, salvando no localStorage ou integrando com Vuetify.
